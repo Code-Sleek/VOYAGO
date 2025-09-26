@@ -14,29 +14,26 @@ You can explore the interactive design live here:
 
 # Key Features 
 
-⁜Convenience & Organization  
-      o Travelers an manage itineraries, booking and essential travel details in one 
+⁜ **Convenience & Organization**  
+Travelers an manage itineraries, booking and essential travel details in one 
 place. 
 
- Social & Community Engagement 
-      o Solo travelers can connect with like-minded people. 
-      o Groups can coordinate plans easily. 
+⁜ **Social & Community Engagement**
+Solo travelers can connect with like-minded people. 
+Groups can coordinate plans easily. 
 
- Safety & Real Time Updates 
-      o Emergency assistance and location sharing for safety. 
+⁜ **Safety & Real Time Updates** 
+Emergency assistance and location sharing for safety. 
 
- Budget & Cost Savings 
-      o Helps travelers find the best deals on accommodations, flights and local 
-experiences. 
+⁜ **Budget & Cost Savings** 
+Helps travelers find the best deals on accommodations, flights and local experiences. 
 
- Business Travel Efficiency  
-      o Quick access to co-working spaces, meeting spots, and network 
-opportunities. 
-      o Streamlined trip panning for frequent business travelers. 
+⁜ **Business Travel Efficiency**
+Quick access to co-working spaces, meeting spots, and network opportunities. 
+Streamlined trip panning for frequent business travelers. 
 
- Seamless Integration with Open-Source API 
-      o Access to real-time maps, local events, and public transport data without 
-extra costs. 
+⁜ **Seamless Integration with Open-Source API** 
+Access to real-time maps, local events, and public transport data without extra costs. 
 
 ---
 
@@ -44,25 +41,25 @@ extra costs.
 
 **VOYAGO** is made for those, 
 
- Solo Travelers – People who love exploring alone but want a community to connect 
+⁜ **Solo Travelers** – People who love exploring alone but want a community to connect 
 with on their journey. 
 
- Backpackers & Budget Travelers – Those looking for cost effective travel 
+⁜ **Backpackers & Budget Travelers** – Those looking for cost effective travel 
 solutions, recommendations, and companionships. 
 
- Group Travelers & Friends – Travelers panning trips together who need tools to 
+⁜ **Group Travelers & Friends** – Travelers panning trips together who need tools to 
 coordinate and share experiences. 
 
- Digital Nomads – Remote workers who frequently travel and seek networking 
+⁜ **Digital Nomads** – Remote workers who frequently travel and seek networking 
 opportunities. 
 
- Adventure & Experience Seekers – People interested in unique experiences, 
+ **Adventure & Experience Seekers** – People interested in unique experiences, 
 offbeat destinations, and local interactions.
 
- Students & Young Travelers – Budget-conscious travelers who love discovering 
+⁜ **Students & Young Travelers** – Budget-conscious travelers who love discovering 
 new places and meeting people. 
 
- Business Travelers & Frequent Flyers – Professionals who work and need 
+⁜ **Business Travelers & Frequent Flyers** – Professionals who work and need 
 efficient planning, networking opportunities, and local recommendations for dining, 
 co-working spaces, and transport.
 
