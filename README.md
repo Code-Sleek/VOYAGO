@@ -69,3 +69,13 @@ co-working spaces, and transport.
 - Built in **Figma**
 - Modern & vibrant style
 - Mobile-first UI/UX
+
+---
+
+# Voyago – Prototype Map
+
+The link below contains the **Figma prototype directions**: 
+
+👉 [View the Map](https://www.figma.com/design/bE2EWS38YqtGed4IxN8Epx/VoyaGo?node-id=3-13&t=vcGyWUKjxttCTNsy-1)
+
+---
