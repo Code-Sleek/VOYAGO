@@ -15,17 +15,22 @@ You can explore the interactive design live here:
 # Key Features 
 
  Convenience & Organization  
+
 o Travelers an manage itineraries, booking and essential travel details in one 
 place. 
 
  Social & Community Engagement 
+
 o Solo travelers can connect with like-minded people. 
+
 o Groups can coordinate plans easily. 
 
  Safety & Real Time Updates 
+
 o Emergency assistance and location sharing for safety. 
 
  Budget & Cost Savings 
+
 o Helps travelers find the best deals on accommodations, flights and local 
 experiences. 
 
