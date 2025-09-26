@@ -1,5 +1,7 @@
 # VOYAGO
-Voyago is your ultimate travel companion, making every journey smooth and fun. Connect with fellow travelers, discover hidden gems, and manage your plans with ease. With social features, real-time insights, and smart tools, Voyago ensures you never travel alone.
+Voyago is your ultimate travel companion, designed to make every journey smoother and more enjoyable. Whether you're exploring new destinations or planning a trip with friends, Voyago helps you connect with fellow travelers, discover hidden gems, and manage your itinerary effortlessly. With social and community features, real-time travel insights, and seamless integration with free open-source APIs, Voyago ensures you never travel alone.
+
+---
 
 # Voyago – Go Beyond Limits
 
@@ -10,10 +12,7 @@ You can explore the interactive design live here:
 
 ---
 
-## 📱 Screenshots
-Here are a few previews of the design:
 
-<img src="screens/home.png" width="250"> <img src="screens/login.png" width="250"> <img src="screens/profile.png" width="250">
 
 ---
 
